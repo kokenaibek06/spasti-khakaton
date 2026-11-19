@@ -1,0 +1,81 @@
+{
+  "scenarios": [
+    {
+      "scenario": "scenario-1",
+      "status": "done",
+      "model": "gpt-5.4-mini",
+      "calls": 1,
+      "input_tokens": 3202,
+      "output_tokens": 44,
+      "cost_usd": 0.0025995,
+      "reserved_cost_usd": 0
+    },
+    {
+      "scenario": "scenario-2",
+      "status": "done",
+      "model": "gpt-5.4-mini",
+      "calls": 1,
+      "input_tokens": 3225,
+      "output_tokens": 44,
+      "cost_usd": 0.00261675,
+      "reserved_cost_usd": 0
+    },
+    {
+      "scenario": "scenario-3a",
+      "status": "done",
+      "model": "gpt-5.4-mini",
+      "calls": 1,
+      "input_tokens": 3248,
+      "output_tokens": 44,
+      "cost_usd": 0.002634,
+      "reserved_cost_usd": 0
+    },
+    {
+      "scenario": "scenario-3b",
+      "status": "done",
+      "model": "gpt-5.4-mini",
+      "calls": 1,
+      "input_tokens": 2645,
+      "output_tokens": 44,
+      "cost_usd": 0.00218175,
+      "reserved_cost_usd": 0
+    },
+    {
+      "scenario": "scenario-3c",
+      "status": "new",
+      "model": "не вызывалась",
+      "calls": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cost_usd": 0.0,
+      "reserved_cost_usd": 0.0
+    },
+    {
+      "scenario": "scenario-4",
+      "status": "needs_attention",
+      "model": "gpt-5.4-mini",
+      "calls": 1,
+      "input_tokens": 3202,
+      "output_tokens": 44,
+      "cost_usd": 0.0025995,
+      "reserved_cost_usd": 0
+    },
+    {
+      "scenario": "scenario-5",
+      "status": "done",
+      "model": "gpt-5.4-mini",
+      "calls": 1,
+      "input_tokens": 3662,
+      "output_tokens": 44,
+      "cost_usd": 0.0029445,
+      "reserved_cost_usd": 0
+    }
+  ],
+  "totals": {
+    "calls": 6,
+    "input_tokens": 19184,
+    "output_tokens": 264,
+    "cost_usd": 0.015576,
+    "reserved_cost_usd": 0.0
+  }
+}

@@ -1,0 +1,17 @@
+$ agent.py --no-skill  (CRASH_AT=-)
+код возврата: 0
+--- stdout ---
+Нужно подтверждение брони: Новая площадка V-HUB 92f8322e62, 350000 KZT.
+Продолжить: uv run python agent.py --approve; отклонить: --reject
+
+--- stderr ---
+
+
+$ agent.py --approve --no-skill  (CRASH_AT=-)
+код возврата: 0
+--- stdout ---
+Перенос завершён: Новая площадка V-HUB 92f8322e62; команд 6, уведомлений 8.
+
+--- stderr ---
+
+

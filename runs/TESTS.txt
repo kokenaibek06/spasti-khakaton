@@ -1,0 +1,13 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.12.16, pytest-8.4.2, pluggy-1.7.0
+rootdir: /Users/ajbekkoken/Documents/Codex/2026-11-19/new-chat/outputs/spasti-khakaton
+configfile: pyproject.toml
+testpaths: tests, checks
+plugins: anyio-4.16.0
+collected 43 items
+
+tests/test_starter_pack.py ..........                                    [ 23%]
+checks/test_model.py .....                                               [ 34%]
+checks/test_security.py ............................                     [100%]
+
+============================= 43 passed in 12.85s ==============================

@@ -1,0 +1,12 @@
+{
+  "evals/graders.py": "f192ed1990be4d2c885b90663b8ef94b8272ba05d51d7edbbc26f4d25afe7dc8",
+  "fixtures/config.json": "4e0e1e00f15a9a5dc9e7b6a0483f47d908ab1bd385dd974e2c61181eb5eb59d8",
+  "fixtures/inbox.json": "f73b23c303606e015eb0e74eeab8bc1c336fa87368cced6ebb5801a4c369229a",
+  "fixtures/mentors.json": "73ac161aaaabeed762b770e43b5adc032e0275ac5bde98f7c955bdbc1d62983c",
+  "fixtures/rules.md": "9a3d49e3e8283187d5cd653698314683274228a13826e646962d94b204a32776",
+  "fixtures/teams.json": "8dcdf56c0eee6a57a205978fdaa7a8f74cb29d1ee59f9493468e8fe1df2af654",
+  "fixtures/venues.json": "a7828d3885ea3379bd8cd2e3c63440d4399fd7a845a6def75d5b761017f9c6dc",
+  "reset.py": "aad67047d74eadcbbe359ccaeaf33fd590dbfa4365a50aac29edc4428f274858",
+  "tests/test_starter_pack.py": "6dd7f958a0745bd3abde455ac0f87370392ca3bed47d9002ba83aa27d398578d",
+  "world.py": "e44157a829386458d61eebb9b5feebb31b008133336b8c4b0fd0e3724597836c"
+}

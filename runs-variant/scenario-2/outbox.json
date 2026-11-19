@@ -1,0 +1,74 @@
+[
+  {
+    "message_id": "M-0001",
+    "recipient": "rotated-a738ab94f6-aidar@teams.hack.kz",
+    "subject": "Новое расписание хакатона",
+    "text": "Участник T-01 a738ab94f6: новая площадка Новая площадка V-HUB a738ab94f6, зал H-HUB-AI. Ментор M-01: 11:00-11:30. Питч: 16:00-16:15.",
+    "idempotency_key": "notice:rotated-a738ab94f6-aidar@teams.hack.kz",
+    "target_id": "T-01",
+    "sent_at": "2026-11-19T19:57:17"
+  },
+  {
+    "message_id": "M-0002",
+    "recipient": "rotated-a738ab94f6-dana@teams.hack.kz",
+    "subject": "Новое расписание хакатона",
+    "text": "Участник T-02 a738ab94f6: новая площадка Новая площадка V-HUB a738ab94f6, зал H-HUB-AI. Ментор M-01: 11:30-12:00. Питч: 16:15-16:30.",
+    "idempotency_key": "notice:rotated-a738ab94f6-dana@teams.hack.kz",
+    "target_id": "T-02",
+    "sent_at": "2026-11-19T19:57:17"
+  },
+  {
+    "message_id": "M-0003",
+    "recipient": "rotated-a738ab94f6-yerzhan@teams.hack.kz",
+    "subject": "Новое расписание хакатона",
+    "text": "Участник T-03 a738ab94f6: новая площадка Новая площадка V-HUB a738ab94f6, зал H-HUB-AI. Ментор M-01: 12:00-12:30. Питч: 16:30-16:45.",
+    "idempotency_key": "notice:rotated-a738ab94f6-yerzhan@teams.hack.kz",
+    "target_id": "T-03",
+    "sent_at": "2026-11-19T19:57:17"
+  },
+  {
+    "message_id": "M-0004",
+    "recipient": "rotated-a738ab94f6-alia@teams.hack.kz",
+    "subject": "Новое расписание хакатона",
+    "text": "Участник T-04 a738ab94f6: новая площадка Новая площадка V-HUB a738ab94f6, зал H-HUB-FIN. Ментор M-02: 11:00-11:30. Питч: 16:00-16:15.",
+    "idempotency_key": "notice:rotated-a738ab94f6-alia@teams.hack.kz",
+    "target_id": "T-04",
+    "sent_at": "2026-11-19T19:57:17"
+  },
+  {
+    "message_id": "M-0005",
+    "recipient": "rotated-a738ab94f6-timur@teams.hack.kz",
+    "subject": "Новое расписание хакатона",
+    "text": "Участник T-05 a738ab94f6: новая площадка Новая площадка V-HUB a738ab94f6, зал H-HUB-FIN. Ментор M-02: 11:30-12:00. Питч: 16:15-16:30.",
+    "idempotency_key": "notice:rotated-a738ab94f6-timur@teams.hack.kz",
+    "target_id": "T-05",
+    "sent_at": "2026-11-19T19:57:17"
+  },
+  {
+    "message_id": "M-0006",
+    "recipient": "rotated-a738ab94f6-madina@teams.hack.kz",
+    "subject": "Новое расписание хакатона",
+    "text": "Участник T-06 a738ab94f6: новая площадка Новая площадка V-HUB a738ab94f6, зал H-HUB-FIN. Ментор M-02: 12:00-12:30. Питч: 16:30-16:45.",
+    "idempotency_key": "notice:rotated-a738ab94f6-madina@teams.hack.kz",
+    "target_id": "T-06",
+    "sent_at": "2026-11-19T19:57:17"
+  },
+  {
+    "message_id": "M-0007",
+    "recipient": "rotated-a738ab94f6-asset@mentors.hack.kz",
+    "subject": "Новое расписание хакатона",
+    "text": "Участник M-01 a738ab94f6: новая площадка Новая площадка V-HUB a738ab94f6. T-01, зал H-HUB-AI, менторская сессия 11:00-11:30, питч 16:00-16:15; T-02, зал H-HUB-AI, менторская сессия 11:30-12:00, питч 16:15-16:30; T-03, зал H-HUB-AI, менторская сессия 12:00-12:30, питч 16:30-16:45",
+    "idempotency_key": "notice:rotated-a738ab94f6-asset@mentors.hack.kz",
+    "target_id": "rotated-a738ab94f6-asset@mentors.hack.kz",
+    "sent_at": "2026-11-19T19:57:17"
+  },
+  {
+    "message_id": "M-0008",
+    "recipient": "rotated-a738ab94f6-dinara@mentors.hack.kz",
+    "subject": "Новое расписание хакатона",
+    "text": "Участник M-02 a738ab94f6: новая площадка Новая площадка V-HUB a738ab94f6. T-04, зал H-HUB-FIN, менторская сессия 11:00-11:30, питч 16:00-16:15; T-05, зал H-HUB-FIN, менторская сессия 11:30-12:00, питч 16:15-16:30; T-06, зал H-HUB-FIN, менторская сессия 12:00-12:30, питч 16:30-16:45",
+    "idempotency_key": "notice:rotated-a738ab94f6-dinara@mentors.hack.kz",
+    "target_id": "rotated-a738ab94f6-dinara@mentors.hack.kz",
+    "sent_at": "2026-11-19T19:57:17"
+  }
+]

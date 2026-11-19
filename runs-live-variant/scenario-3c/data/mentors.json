@@ -1,0 +1,24 @@
+[
+  {
+    "id": "M-01",
+    "name": "Участник M-01 14831c1a26",
+    "track": "ai-agents",
+    "available_slots": [
+      "11:00-11:30",
+      "11:30-12:00",
+      "12:00-12:30"
+    ],
+    "email": "rotated-14831c1a26-asset@mentors.hack.kz"
+  },
+  {
+    "id": "M-02",
+    "name": "Участник M-02 14831c1a26",
+    "track": "fintech",
+    "available_slots": [
+      "11:00-11:30",
+      "11:30-12:00",
+      "12:00-12:30"
+    ],
+    "email": "rotated-14831c1a26-dinara@mentors.hack.kz"
+  }
+]

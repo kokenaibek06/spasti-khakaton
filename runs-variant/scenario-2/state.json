@@ -1,0 +1,94 @@
+{
+  "status": "done",
+  "attempts": 3,
+  "decision": "approve",
+  "approval": {
+    "venue_id": "V-HUB",
+    "cost_kzt": 350000
+  },
+  "selected_venue": "V-HUB",
+  "skill_activated": true,
+  "skill_mode": true,
+  "bulletin": "[ПЛОЩАДКА]\nНовая площадка V-HUB a738ab94f6: 350000 KZT. Подтверждение: approve.\n[СЕТКА СЛОТОВ]\nT-01: H-HUB-AI, ментор M-01 11:00-11:30, питч 16:00-16:15\nT-02: H-HUB-AI, ментор M-01 11:30-12:00, питч 16:15-16:30\nT-03: H-HUB-AI, ментор M-01 12:00-12:30, питч 16:30-16:45\nT-04: H-HUB-FIN, ментор M-02 11:00-11:30, питч 16:00-16:15\nT-05: H-HUB-FIN, ментор M-02 11:30-12:00, питч 16:15-16:30\nT-06: H-HUB-FIN, ментор M-02 12:00-12:30, питч 16:30-16:45\nКонфликтов расписания: 0\n[СТАТУС РАССЫЛКИ]\nУведомлений: 8. Всем командам и менторам отправлено по одному письму.",
+  "checkpoint": "complete",
+  "turns_total": 23,
+  "token_usage": {
+    "calls": 0,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "total_tokens": 0,
+    "cost_usd": 0.0,
+    "reserved_cost_usd": 0.0,
+    "provider": "offline",
+    "model": "deterministic-planner",
+    "input_usd_per_million": 0.0,
+    "output_usd_per_million": 0.0
+  },
+  "run_turns": 14,
+  "plan": [
+    {
+      "team_id": "T-01",
+      "venue_id": "V-HUB",
+      "hall_id": "H-HUB-AI",
+      "mentor_id": "M-01",
+      "mentor_slot": "11:00-11:30",
+      "pitch_slot": "16:00-16:15",
+      "idempotency_key": "slot:T-01"
+    },
+    {
+      "team_id": "T-02",
+      "venue_id": "V-HUB",
+      "hall_id": "H-HUB-AI",
+      "mentor_id": "M-01",
+      "mentor_slot": "11:30-12:00",
+      "pitch_slot": "16:15-16:30",
+      "idempotency_key": "slot:T-02"
+    },
+    {
+      "team_id": "T-03",
+      "venue_id": "V-HUB",
+      "hall_id": "H-HUB-AI",
+      "mentor_id": "M-01",
+      "mentor_slot": "12:00-12:30",
+      "pitch_slot": "16:30-16:45",
+      "idempotency_key": "slot:T-03"
+    },
+    {
+      "team_id": "T-04",
+      "venue_id": "V-HUB",
+      "hall_id": "H-HUB-FIN",
+      "mentor_id": "M-02",
+      "mentor_slot": "11:00-11:30",
+      "pitch_slot": "16:00-16:15",
+      "idempotency_key": "slot:T-04"
+    },
+    {
+      "team_id": "T-05",
+      "venue_id": "V-HUB",
+      "hall_id": "H-HUB-FIN",
+      "mentor_id": "M-02",
+      "mentor_slot": "11:30-12:00",
+      "pitch_slot": "16:15-16:30",
+      "idempotency_key": "slot:T-05"
+    },
+    {
+      "team_id": "T-06",
+      "venue_id": "V-HUB",
+      "hall_id": "H-HUB-FIN",
+      "mentor_id": "M-02",
+      "mentor_slot": "12:00-12:30",
+      "pitch_slot": "16:30-16:45",
+      "idempotency_key": "slot:T-06"
+    }
+  ],
+  "approval_request": {
+    "venue_id": "V-HUB",
+    "cost_kzt": 350000
+  },
+  "verification": {
+    "bookings": 1,
+    "assigned_teams": 6,
+    "notifications": 8,
+    "conflicts": 0
+  }
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "T-01",
+    "name": "Участник T-01 27274ffaf2",
+    "size": 4,
+    "track": "ai-agents",
+    "captain_email": "rotated-27274ffaf2-aidar@teams.hack.kz",
+    "current_mentor_slot": "10:00-10:30",
+    "current_pitch_slot": "15:00-15:15"
+  },
+  {
+    "id": "T-02",
+    "name": "Участник T-02 27274ffaf2",
+    "size": 5,
+    "track": "ai-agents",
+    "captain_email": "rotated-27274ffaf2-dana@teams.hack.kz",
+    "current_mentor_slot": "10:30-11:00",
+    "current_pitch_slot": "15:15-15:30"
+  },
+  {
+    "id": "T-03",
+    "name": "Участник T-03 27274ffaf2",
+    "size": 4,
+    "track": "ai-agents",
+    "captain_email": "rotated-27274ffaf2-yerzhan@teams.hack.kz",
+    "current_mentor_slot": "11:00-11:30",
+    "current_pitch_slot": "15:30-15:45"
+  },
+  {
+    "id": "T-04",
+    "name": "Участник T-04 27274ffaf2",
+    "size": 5,
+    "track": "fintech",
+    "captain_email": "rotated-27274ffaf2-alia@teams.hack.kz",
+    "current_mentor_slot": "10:00-10:30",
+    "current_pitch_slot": "15:00-15:15"
+  },
+  {
+    "id": "T-05",
+    "name": "Участник T-05 27274ffaf2",
+    "size": 4,
+    "track": "fintech",
+    "captain_email": "rotated-27274ffaf2-timur@teams.hack.kz",
+    "current_mentor_slot": "10:30-11:00",
+    "current_pitch_slot": "15:15-15:30"
+  },
+  {
+    "id": "T-06",
+    "name": "Участник T-06 27274ffaf2",
+    "size": 4,
+    "track": "fintech",
+    "captain_email": "rotated-27274ffaf2-madina@teams.hack.kz",
+    "current_mentor_slot": "11:00-11:30",
+    "current_pitch_slot": "15:30-15:45"
+  }
+]

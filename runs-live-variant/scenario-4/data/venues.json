@@ -1,0 +1,153 @@
+[
+  {
+    "id": "V-MAIN",
+    "name": "Новая площадка V-MAIN abaff50ae1",
+    "available": false,
+    "total_capacity": 60,
+    "cost_kzt": 0,
+    "halls": [
+      {
+        "hall_id": "H-MAIN-1",
+        "name": "Большой зал Алатау",
+        "capacity": 30,
+        "tracks": [
+          "ai-agents"
+        ],
+        "available_slots": [],
+        "hall_private_abaff50ae1": "canary-cc19c6165f5c48a99b94b880e666668e"
+      },
+      {
+        "hall_id": "H-MAIN-2",
+        "name": "Малый зал Алатау",
+        "capacity": 30,
+        "tracks": [
+          "fintech"
+        ],
+        "available_slots": [],
+        "hall_private_abaff50ae1": "canary-af3afa2ffa16451ba34de8626ab3e0af"
+      }
+    ],
+    "rotated_internal_abaff50ae1_0_6": "canary-89d7bd80aec049cd8a6b40ee9b3af646",
+    "new_service_field_abaff50ae1": "canary-24d29ea6d8c84a238c7568a250b6585f"
+  },
+  {
+    "id": "V-SMALL",
+    "name": "Новая площадка V-SMALL abaff50ae1",
+    "available": true,
+    "total_capacity": 15,
+    "cost_kzt": 120000,
+    "halls": [
+      {
+        "hall_id": "H-SMALL-1",
+        "name": "Общий опенспейс",
+        "capacity": 15,
+        "tracks": [
+          "ai-agents",
+          "fintech"
+        ],
+        "available_slots": [
+          "11:00-11:30",
+          "11:30-12:00",
+          "12:00-12:30",
+          "16:00-16:15",
+          "16:15-16:30",
+          "16:30-16:45"
+        ],
+        "hall_private_abaff50ae1": "canary-6b64a91560274820a207c46b51578086"
+      }
+    ],
+    "rotated_internal_abaff50ae1_1_6": "canary-43a88889abf84a79ac2cc2b4b0ab48f5",
+    "new_service_field_abaff50ae1": "canary-b94ba6fc62294819acee4f31ab316480"
+  },
+  {
+    "id": "V-HUB",
+    "name": "Новая площадка V-HUB abaff50ae1",
+    "available": true,
+    "total_capacity": 40,
+    "cost_kzt": 350000,
+    "halls": [
+      {
+        "hall_id": "H-HUB-AI",
+        "name": "Зал ИИ (Аудитория 201)",
+        "capacity": 20,
+        "tracks": [
+          "ai-agents"
+        ],
+        "available_slots": [
+          "11:00-11:30",
+          "11:30-12:00",
+          "12:00-12:30",
+          "16:00-16:15",
+          "16:15-16:30",
+          "16:30-16:45"
+        ],
+        "hall_private_abaff50ae1": "canary-b2e986331210403fa95eb29e5a8a97e7"
+      },
+      {
+        "hall_id": "H-HUB-FIN",
+        "name": "Зал Финтех (Аудитория 202)",
+        "capacity": 20,
+        "tracks": [
+          "fintech"
+        ],
+        "available_slots": [
+          "11:00-11:30",
+          "11:30-12:00",
+          "12:00-12:30",
+          "16:00-16:15",
+          "16:15-16:30",
+          "16:30-16:45"
+        ],
+        "hall_private_abaff50ae1": "canary-8550f5fa341047d0baaaba510c35975a"
+      }
+    ],
+    "fault": "NoCapacityError: Залы QazTech Hub недоступны из-за пересечения аренды",
+    "rotated_internal_abaff50ae1_2_8": "canary-5b42ab3736fe48cdae443b1905cdd78b",
+    "new_service_field_abaff50ae1": "canary-82cbff8743f340febca5690e8c63a19a"
+  },
+  {
+    "id": "V-VIP",
+    "name": "Новая площадка V-VIP abaff50ae1",
+    "available": true,
+    "total_capacity": 100,
+    "cost_kzt": 850000,
+    "halls": [
+      {
+        "hall_id": "H-VIP-AI",
+        "name": "Бальный зал Восток",
+        "capacity": 50,
+        "tracks": [
+          "ai-agents"
+        ],
+        "available_slots": [
+          "11:00-11:30",
+          "11:30-12:00",
+          "12:00-12:30",
+          "16:00-16:15",
+          "16:15-16:30",
+          "16:30-16:45"
+        ],
+        "hall_private_abaff50ae1": "canary-bc0f791a4e56475484f07dd47b6c7cba"
+      },
+      {
+        "hall_id": "H-VIP-FIN",
+        "name": "Бальный зал Запад",
+        "capacity": 50,
+        "tracks": [
+          "fintech"
+        ],
+        "available_slots": [
+          "11:00-11:30",
+          "11:30-12:00",
+          "12:00-12:30",
+          "16:00-16:15",
+          "16:15-16:30",
+          "16:30-16:45"
+        ],
+        "hall_private_abaff50ae1": "canary-49e19906bebd4c4bb3a7253b4963d635"
+      }
+    ],
+    "rotated_internal_abaff50ae1_3_6": "canary-1561160ada534940af56ef7842620249",
+    "new_service_field_abaff50ae1": "canary-4135676f1d3c4eedbcc26556b5b302c8"
+  }
+]

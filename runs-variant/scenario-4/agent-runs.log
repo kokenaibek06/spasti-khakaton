@@ -1,0 +1,17 @@
+$ agent.py   (CRASH_AT=-)
+код возврата: 0
+--- stdout ---
+Нужно подтверждение брони: Новая площадка V-HUB 30a39a55fa, 350000 KZT.
+Продолжить: uv run python agent.py --approve; отклонить: --reject
+
+--- stderr ---
+
+
+$ agent.py --approve  (CRASH_AT=-)
+код возврата: 1
+--- stdout ---
+Требуется внимание: booking:no_capacity
+
+--- stderr ---
+
+

@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-19",
+  "timezone": "Asia/Almaty",
+  "tests_passed": 43,
+  "protected_files_unchanged": 10,
+  "profiles": {
+    "runs": {
+      "calls": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cost_usd": 0.0,
+      "reserved_cost_usd": 0.0
+    },
+    "runs-variant": {
+      "calls": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cost_usd": 0.0,
+      "reserved_cost_usd": 0.0
+    },
+    "runs-live": {
+      "calls": 6,
+      "input_tokens": 17840,
+      "output_tokens": 264,
+      "cost_usd": 0.014568000000000001,
+      "reserved_cost_usd": 0.0
+    },
+    "runs-live-variant": {
+      "calls": 6,
+      "input_tokens": 19184,
+      "output_tokens": 264,
+      "cost_usd": 0.015576,
+      "reserved_cost_usd": 0.0
+    }
+  },
+  "smoke_token_usage": {
+    "calls": 1,
+    "input_tokens": 3009,
+    "output_tokens": 44,
+    "total_tokens": 3053,
+    "cost_usd": 0.00245475,
+    "reserved_cost_usd": 0,
+    "provider": "openai",
+    "model": "gpt-5.4-mini",
+    "input_usd_per_million": 0.75,
+    "output_usd_per_million": 4.5
+  },
+  "live_total": {
+    "calls": 13,
+    "input_tokens": 40033,
+    "output_tokens": 572,
+    "cost_usd": 0.03259875,
+    "cost_basis": "configured_full_rates_without_cache_discount"
+  }
+}

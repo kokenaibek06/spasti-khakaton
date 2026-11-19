@@ -1,0 +1,10 @@
+[
+  {
+    "booking_id": "B-0001",
+    "venue_id": "V-HUB",
+    "venue_name": "Новая площадка V-HUB 20ba87c63f",
+    "cost_kzt": 350000,
+    "idempotency_key": "booking:V-HUB",
+    "created_at": "2026-11-19T20:05:08"
+  }
+]

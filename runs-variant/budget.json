@@ -1,0 +1,81 @@
+{
+  "scenarios": [
+    {
+      "scenario": "scenario-1",
+      "status": "done",
+      "model": "deterministic-planner",
+      "calls": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cost_usd": 0.0,
+      "reserved_cost_usd": 0.0
+    },
+    {
+      "scenario": "scenario-2",
+      "status": "done",
+      "model": "deterministic-planner",
+      "calls": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cost_usd": 0.0,
+      "reserved_cost_usd": 0.0
+    },
+    {
+      "scenario": "scenario-3a",
+      "status": "done",
+      "model": "deterministic-planner",
+      "calls": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cost_usd": 0.0,
+      "reserved_cost_usd": 0.0
+    },
+    {
+      "scenario": "scenario-3b",
+      "status": "done",
+      "model": "deterministic-planner",
+      "calls": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cost_usd": 0.0,
+      "reserved_cost_usd": 0.0
+    },
+    {
+      "scenario": "scenario-3c",
+      "status": "new",
+      "model": "не вызывалась",
+      "calls": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cost_usd": 0.0,
+      "reserved_cost_usd": 0.0
+    },
+    {
+      "scenario": "scenario-4",
+      "status": "needs_attention",
+      "model": "deterministic-planner",
+      "calls": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cost_usd": 0.0,
+      "reserved_cost_usd": 0.0
+    },
+    {
+      "scenario": "scenario-5",
+      "status": "done",
+      "model": "deterministic-planner",
+      "calls": 0,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cost_usd": 0.0,
+      "reserved_cost_usd": 0.0
+    }
+  ],
+  "totals": {
+    "calls": 0,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "cost_usd": 0.0,
+    "reserved_cost_usd": 0.0
+  }
+}
